@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 01 sdlc planning and project charter"
+
+git push
