@@ -1,0 +1,16 @@
+package com.alhanoof.sdlc.defects.repository;
+
+import com.alhanoof.sdlc.defects.entity.Defect;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface DefectRepository
+        extends JpaRepository<Defect, Long> {
+
+    List<Defect> findByStatus(String status);
+
+    List<Defect> findBySeverity(String severity);
+
+    List<Defect> findByPriority(String priority);
+}
