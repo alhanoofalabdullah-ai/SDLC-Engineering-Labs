@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8
+    container_name: agile-sprint-mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: agile_sprint_db
+      MYSQL_ROOT_PASSWORD: password
+    ports:
+      - "3306:3306"
