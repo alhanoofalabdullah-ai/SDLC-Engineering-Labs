@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+
+  mysql:
+
+    image: mysql:8
+
+    container_name: test-case-mysql
+
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: test_case_db
+
+    ports:
+      - "3306:3306"
