@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+
+  mysql:
+    image: mysql:8
+
+    container_name: configuration-management-mysql
+
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: configuration_management_db
+
+    ports:
+      - "3306:3306"
