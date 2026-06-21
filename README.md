@@ -1,222 +1,146 @@
-🚀 SDLC Engineering Labs
+# 🚀 SDLC Engineering Labs
 
-A comprehensive enterprise-level repository demonstrating the complete Software Development Life Cycle (SDLC) through practical projects, documentation, testing activities, deployment workflows, and software engineering best practices.
+A comprehensive collection of enterprise Software Development Life Cycle (SDLC) projects built using Java, Spring Boot, REST APIs, MySQL, Docker, and Software Engineering best practices.
 
-⸻
+This repository demonstrates end-to-end SDLC governance, requirements management, Agile delivery, testing, quality assurance, risk management, release management, audit controls, and enterprise reporting.
 
-📖 Overview
+---
 
-This repository is designed to showcase end-to-end Software Development Life Cycle (SDLC) implementation across real-world software engineering scenarios.
+## 📚 Projects Included
 
-The projects simulate enterprise environments and demonstrate how software systems move from business requirements to production deployment and ongoing maintenance.
+### Project 01 – Requirements Management System
+Requirements lifecycle management, prioritization, and governance.
 
-The repository focuses on building practical software engineering experience aligned with industry standards and enterprise development methodologies.
+### Project 02 – Agile Sprint Management API
+Sprint planning, backlog management, velocity tracking, and Agile reporting.
 
-⸻
+### Project 03 – Waterfall Student Management System
+Traditional SDLC implementation using Waterfall methodology.
 
-🎯 Repository Objectives
+### Project 04 – Change Request Management System
+Change requests, approvals, impact tracking, and governance workflows.
 
-* Understand the complete SDLC lifecycle
-* Apply software engineering best practices
-* Develop enterprise-grade applications
-* Improve system quality and maintainability
-* Implement testing and deployment strategies
-* Strengthen documentation and governance practices
-* Demonstrate real-world development workflows
+### Project 05 – Defect Tracking System
+Defect lifecycle management, prioritization, assignment, and resolution.
 
-⸻
+### Project 06 – Test Case Management System
+Test planning, execution tracking, and testing governance.
 
-🔄 SDLC Lifecycle Covered
+### Project 07 – Release Management System
+Software release planning, deployment tracking, and release governance.
 
-1. Planning
+### Project 08 – Risk Issue Management System
+Risk registers, issue registers, mitigation planning, and escalation controls.
 
-* Business objectives definition
-* Stakeholder analysis
-* Scope management
-* Project charter creation
-* Resource planning
-* Risk identification
+### Project 09 – Project Documentation Portal
+Documentation governance, workflows, transmittals, revision control, and audit trails.
 
-⸻
+### Project 10 – Software Approval Workflow System
+Multi-level approval workflows, SLA monitoring, escalation management, and governance.
 
-2. Requirements Analysis
+### Project 11 – User Story Management API
+Product backlog management, user stories, acceptance criteria, and sprint assignment.
 
-* Functional requirements
-* Non-functional requirements
-* User stories
-* Use cases
-* Business process analysis
-* Requirement traceability
+### Project 12 – Software Estimation Tool
+Story point estimation, effort forecasting, cost estimation, and resource planning.
 
-⸻
+### Project 13 – SDLC Audit Trail System
+Audit logs, compliance tracking, change history, and governance reporting.
 
-3. System Design
+### Project 14 – UAT Management System
+User Acceptance Testing management, business validation, sign-off, and readiness assessment.
 
-* Solution architecture
-* UML diagrams
-* Database design
-* API design
-* Security architecture
-* Technical specifications
+### Project 15 – DevOps Pipeline Tracker
+CI/CD monitoring, deployment tracking, environment monitoring, and release analytics.
 
-⸻
+### Project 16 – Requirements Traceability System
+Requirements Traceability Matrix (RTM), coverage analysis, and impact assessment.
 
-4. Development
+### Project 17 – Software Quality Metrics Dashboard
+Executive dashboards, KPIs, testing metrics, risk metrics, and quality reporting.
 
-* Coding standards
-* Version control
-* Branching strategy
-* Code reviews
-* Modular development
-* Software implementation
+### Project 18 – Configuration Management System
+Configuration Items (CI), baselines, version control, and CMDB concepts.
 
-⸻
+### Project 19 – Enterprise Change Impact Analysis System
+Dependency analysis, impact assessment, risk evaluation, and change governance.
 
-5. Testing
+### Project 20 – Enterprise SDLC Governance Platform
+Integrated enterprise platform combining requirements, testing, UAT, risks, releases, audit logs, and executive dashboards.
 
-* Unit Testing
-* Integration Testing
-* System Testing
-* User Acceptance Testing (UAT)
-* Performance Testing
-* Security Testing
+---
 
-⸻
+## 🛠 Technology Stack
 
-6. Deployment
+- Java 21
+- Spring Boot 3
+- Spring Data JPA
+- REST APIs
+- MySQL
+- Docker
+- Maven
+- Git & GitHub
 
-* CI/CD Pipelines
-* Release Management
-* Deployment Automation
-* Environment Configuration
-* Production Readiness
+---
 
-⸻
+## 🎯 Key Areas Covered
 
-7. Maintenance & Support
+- Software Development Life Cycle (SDLC)
+- Requirements Engineering
+- Agile & Scrum
+- Waterfall Methodology
+- Change Management
+- Defect Management
+- Test Management
+- UAT Governance
+- Release Management
+- Risk Management
+- Audit & Compliance
+- DevOps
+- Configuration Management
+- Requirements Traceability
+- Enterprise Governance
 
-* Monitoring
-* Bug Fixing
-* Enhancements
-* Change Management
-* Incident Management
-* Performance Optimization
+---
 
-⸻
+## 📊 Skills Demonstrated
 
-🏗️ Projects Included
+- Enterprise System Design
+- Backend Development
+- REST API Development
+- Database Design
+- SDLC Governance
+- Audit & Compliance
+- Executive Reporting
+- Software Quality Management
+- Change Governance
+- Risk Assessment
+- Agile Delivery
+- DevOps Monitoring
 
-Project	Description
-Project 01	SDLC Planning & Project Charter
-Project 02	Business Requirements Documentation
-Project 03	Use Case Modeling
-Project 04	Software Requirements Specification (SRS)
-Project 05	System Architecture Design
-Project 06	Database Design & Data Modeling
-Project 07	API Design & Documentation
-Project 08	UI/UX Design Process
-Project 09	Version Control & Git Workflow
-Project 10	Coding Standards & Development Workflow
-Project 11	Unit Testing Framework
-Project 12	Integration Testing Lab
-Project 13	System Testing & QA Process
-Project 14	User Acceptance Testing (UAT)
-Project 15	CI/CD Pipeline Implementation
-Project 16	Release Management Process
-Project 17	Application Monitoring & Logging
-Project 18	Change Management Workflow
-Project 19	Incident & Problem Management
-Project 20	Enterprise SDLC Capstone Project
+---
 
-⸻
+## 📁 Repository Structure
 
-🛠 Technologies & Tools
-
-Development
-
-* Python
-* Java
-* SQL
-* REST APIs
-
-Documentation
-
-* Microsoft Word
-* Markdown
-* Draw.io
-* Visio
-
-Version Control
-
-* Git
-* GitHub
-
-Testing
-
-* PyTest
-* Postman
-* Selenium
-
-DevOps
-
-* Docker
-* GitHub Actions
-* CI/CD Pipelines
-
-Project Management
-
-* Agile
-* Scrum
-* Kanban
-
-⸻
-
-📊 Skills Demonstrated
-
-* Software Development Life Cycle (SDLC)
-* Software Engineering
-* Requirements Engineering
-* System Analysis
-* Solution Architecture
-* Database Design
-* API Development
-* Quality Assurance
-* Testing Methodologies
-* DevOps Fundamentals
-* Release Management
-* Change Management
-* Documentation Management
-* Risk Management
-
-⸻
-
-🚀 Expected Learning Outcomes
-
-By completing these projects, learners will gain practical experience in:
-
-* Managing software projects from inception to deployment
-* Producing professional SDLC documentation
-* Designing scalable software solutions
-* Implementing testing strategies
-* Deploying and maintaining applications
-* Applying enterprise software engineering practices
-
-⸻
-
-🌟 Future Enhancements
-
-* Cloud Deployment Labs
-* Microservices Architecture
-* Kubernetes Deployment
-* DevSecOps Integration
-* Enterprise Architecture Frameworks
-* AI-Assisted Software Engineering
-* Digital Transformation Case Studies
-
-⸻
-
-👩‍💻 Author
-
-Alhanoof Alabdullah
-
-Software Engineering | Enterprise Systems | Documentation Management | Digital Transformation | PMIS | AI & Technology Enthusiast
+```text
+SDLC-Engineering-Labs
+│
+├── project-01-requirements-management-system
+├── project-02-agile-sprint-management-api
+├── project-03-waterfall-student-management-system
+├── project-04-change-request-management-system
+├── project-05-defect-tracking-system
+├── project-06-test-case-management-system
+├── project-07-release-management-system
+├── project-08-risk-issue-management-system
+├── project-09-project-documentation-portal
+├── project-10-software-approval-workflow-system
+├── project-11-user-story-management-api
+├── project-12-software-estimation-tool
+├── project-13-sdlc-audit-trail-system
+├── project-14-uat-management-system
+├── project-15-devops-pipeline-tracker
+├── project-16-requirements-traceability-system
+├── project-17-software-quality-metrics-dashboard
+├── project-18-configuration-management-system
+├──
